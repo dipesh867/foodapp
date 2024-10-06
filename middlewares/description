@@ -1,1 +1,2 @@
-
+It contains the middleware functions which are automatically invoked for authorization before any requests.
+they are exported to routes along with the controllers for authorization
