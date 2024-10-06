@@ -1,2 +1,2 @@
-It contails all the middleware functions wahich contains the logic of all opeartions.
-They are exported ro routes to pass the request along the router
+It contails all the controller functions which contains the logic of all operations.
+They are exported ro routes to pass the request along the router.
