@@ -1,1 +1,2 @@
-
+It contains all the routes and is exported to the server(server.js) to carryout the operations.
+the routes contains type of request,controllers and middleware if required.
