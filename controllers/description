@@ -1,1 +1,2 @@
-
+It contails all the middleware functions wahich contains the logic of all opeartions.
+They are exported ro routes to pass the request along the router
